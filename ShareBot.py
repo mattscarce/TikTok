@@ -1,4 +1,3 @@
-@ -1,24 +1,24 @@
 import ssl, os, requests, time
 from threading import active_count, Thread
 from pystyle import Colorate, Colors, Write
